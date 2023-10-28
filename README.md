@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @20Tsthurman
 - 👀 I’m interested in ... Computer Science and Game Development
-- 🌱 I’m currently learning ... Coding such as Java, C#, and C++
+- 🌱 I’m currently learning ... Game Development and full stack development
 - 📫 How to reach me ... through email, tsthurman03@gmail.com
 
 <!---
